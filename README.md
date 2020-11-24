@@ -1,4 +1,6 @@
 # HGFSAssignment
-Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus Serra. Trabalho solicitado pelos professores de História - Amarildo Lemos, Geografia - Leonardo Matiazzi, Filosofia - Maikon Chaider, e Sociologia - Diego Alves.
+[Open website.](https://eosn.github.io/HGFSAssignment/html/inicio.html)
 
-[Abrir resultado do trabalho](https://eosn.github.io/HGFSAssignment/html/inicio.html)
+## Purpose, creators and bibliography
+Work requested by the professors of History, Geography, Philosophy, and Sociology, Amarildo Mendes Lemos, Leonardo Matiazzi, Maikon Chaider and Diego Alves, at the Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus Serra. November, 2017.</br>
+<b>Members of the group:</b> [Éllen Neves](https://github.com/Eosn), Gustavo Dutra, [Maria Gabriela Tavares](https://github.com/mabist), Mariana Gusmão, Mar Milagres e Rafael Rodrigues.
